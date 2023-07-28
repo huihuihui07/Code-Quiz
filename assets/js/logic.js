@@ -24,5 +24,7 @@ startBtn.addEventListener("click", function (event) {
 
 //function score
 //if score screen is visible
+//enter initial, then the score is recorded on a form on screen
 //create a container containing the h2(score) and 2 buttons: Go back, Clear High Score
-//
+//button 'go back': back to main page
+//button 'clear high score'
