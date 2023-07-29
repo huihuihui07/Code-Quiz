@@ -13,6 +13,8 @@ let quizQuestions = [
     wrongAnswer2: "<scripting>",
     wrongAnswer3: "<javascript>",
     rightAnswer: "<script>",
+    // choices: ["<js>","<scripting>","<javascript>","<script>",],
+    // answer: "<script>"
   },
 
   {
