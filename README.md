@@ -11,7 +11,7 @@
 
 ## Installation
 No installation is required. 
-Deployed link: 
+Deployed link: https://huihuihui07.github.io/W6-Code-Quiz/
 
 ## User Story
 
