@@ -1,4 +1,6 @@
 # W6-Code-Quiz
+<img width="956" alt="image" src="https://github.com/huihuihui07/Code-Quiz/assets/119431383/ca33723a-b98d-46ef-a801-1cde8fe29605">
+
 
 ## Description
 
